@@ -23,6 +23,10 @@
 	list-style-type: none;
 }
 
+img {
+	width: 100%;
+}
+
 body {
 	background: var(--sb-ui-body-bg);
 	font-family: var(--sb-ui-font);
@@ -323,4 +327,5 @@ body, html {
 	.navbar-menu {
 		display: flex;
 	}
+
 }
